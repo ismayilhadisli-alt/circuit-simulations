@@ -1,1 +1,1 @@
-
+"Half-wave rectifier circuit with transformer and capacitor filter. AC input (120Vrms, 60Hz) converted to DC output using a diode and smoothed with a 50µF capacitor. Simulated in Falstad Circuit Simulator."
